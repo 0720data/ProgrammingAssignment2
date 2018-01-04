@@ -1,4 +1,6 @@
-##makeCacheMAtrix(M) ; has 4 function get, set, setinverse, getinverse
+##makeCacheMatrix(M) ; create a cache 
+## ; has 4 function get, set, setinverse, getinverse
+
 ##setinverse() is used in cacheSolve() function 
 ##using <<- operator in set() function AND setinverse() function
 
